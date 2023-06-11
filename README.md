@@ -1,2 +1,37 @@
-# Steam-Keys
-This code Gen &amp; Check keys to Steam
+# Random Steam keys generator and checker
+
+This javascript code generates keys in format AAAAA-BBBBB-CCCCC and then saves it to array named "keys", to prevent generating same key twice.
+
+This code also check the keys gerenrated 
+
+If you're lucky enough, there is a minimal chance, that the key will be valid!
+
+# Gerador & Checker de keys da Steam
+
+Este código foi feito para gerar keys no formato AAAAA-BBBBB-CCCCC e depois salva-la numa array para evitar duplicação.
+
+Além de gerar, o código também checa se as keys estão válidas.
+
+Se você tiver sorte, tem uma chance bem pequena, de a key ser válida!
+
+## Usage
+
+Go to https://store.steampowered.com/login/?redir=account%2Fregisterkey&redir_ssl=1
+and login with you account.
+
+Press CTRL+SHIFT+i or F12 to enter in DevTools of your navigator.
+
+Finally, just paste the code of "main.js" into DevTools Console and wait.. it will gen & check 50 keys
+
+If Steam restrict your IP, just use VPN & private tab
+
+## Como usar
+
+Acesse https://store.steampowered.com/login/?redir=account%2Fregisterkey&redir_ssl=1
+e logue na sua conta.
+
+Use CTRL+SHIFT+i ou F12 para abrir a DevTools do seu navegador.
+
+Copie o código de "main.js", cole no console e aguarde.. ele vai gerar e checar 50 keys
+
+Caso tome restrição de IP, é só usar VPN + guia anônima 
