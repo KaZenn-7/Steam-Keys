@@ -16,7 +16,7 @@ Se você tiver sorte, tem uma chance bem pequena, de a key ser válida!
 
 ## Usage
 
-Go to [https://store.steampowered.com/login/?redir=account%2Fregisterkey&redir_ssl=1](https://store.steampowered.com/account/registerkey)
+Go to https://store.steampowered.com/account/registerkey
 and login with you account.
 
 Press CTRL+SHIFT+i or F12 to enter in DevTools of your navigator.
@@ -27,7 +27,7 @@ If Steam restrict your IP, just use VPN & private tab
 
 ## Como usar
 
-Acesse [https://store.steampowered.com/login/?redir=account%2Fregisterkey&redir_ssl=1](https://store.steampowered.com/account/registerkey)
+Acesse https://store.steampowered.com/account/registerkey
 e logue na sua conta.
 
 Use CTRL+SHIFT+i ou F12 para abrir a DevTools do seu navegador.
