@@ -16,8 +16,7 @@ Se você tiver sorte, tem uma chance bem pequena, de a key ser válida!
 
 ## Usage
 
-Go to https://store.steampowered.com/account/registerkey
-and login with you account.
+[Click here](https://store.steampowered.com/account/registerkey) and login with you account.
 
 Press CTRL+SHIFT+i or F12 to enter in DevTools of your navigator.
 
