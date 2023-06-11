@@ -26,8 +26,7 @@ If Steam restrict your IP, just use VPN & private tab
 
 ## Como usar
 
-Acesse https://store.steampowered.com/account/registerkey
-e logue na sua conta.
+[Click aqui](https://store.steampowered.com/account/registerkey) e loga na sua conta.
 
 Use CTRL+SHIFT+i ou F12 para abrir a DevTools do seu navegador.
 
